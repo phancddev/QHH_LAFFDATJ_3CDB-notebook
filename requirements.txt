@@ -1,0 +1,6 @@
+# Python dependencies for this project
+# Note: lualatex cannot be installed via pip
+# You need to install MacTeX separately
+
+# No Python packages required for basic functionality
+
