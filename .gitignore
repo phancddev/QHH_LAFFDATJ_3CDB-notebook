@@ -1,0 +1,53 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# LaTeX build files (keep build.tex and build.pdf for competition)
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.xdv
+# Ignore all PDFs except build.pdf
+*.pdf
+!build.pdf
+# Ignore all .toc except build.toc
+*.toc
+!build.toc
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build directories
+build/
+dist/
+*.egg-info/
+

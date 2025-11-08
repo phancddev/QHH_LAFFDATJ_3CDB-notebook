@@ -1,10 +1,16 @@
-# LINUX-notebook
-LINUX ACM-ICPC team notebook
+# QHH_LAFDDATJ-3CDB Notebook
+QHH_LAFDDATJ-3CDB - Quoc Hoc Hue High School for the Gifted - ACM-ICPC Team Notebook
 
-Greetings, Earthlings!
+Greetings, Competitors!
 
-This is a deathly team notebook.
+This is our competitive programming team notebook for ACM-ICPC contests.
 
-Be careful when using it!
+Includes algorithms and data structures for:
+- Graph algorithms
+- Math and number theory
+- String algorithms
+- Data structures
+- Geometry
+- Judge tools for testing solutions
 
-Good luck!
+Good luck and happy coding!
